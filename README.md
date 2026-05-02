@@ -15,5 +15,4 @@ Creada para repasar los contenidos de Histoire de 6ème.
 
 ## Ver online
 
-👉 https://juanfranj80.github.io/CarmenEstudios
-# CarmeEstudios
+👉 https://juanfranj.github.io/CarmenEstudios
